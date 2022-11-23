@@ -1,4 +1,4 @@
-My name is Sajad,<br>🤝 I will happily collaborate on any iOS open source project you may have :)<br>💬 Ask me about #iOS, #Soccer and #ML stuff.
+My name is **Sajad**,<br>🤝 I will happily collaborate on any iOS open source project you may have :)<br>💬 Ask me about #iOS, #Soccer and #ML stuff.
 
 # [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sajacl/) 
 
